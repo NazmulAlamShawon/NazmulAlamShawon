@@ -15,7 +15,7 @@
 - 💬 Ask me about **react js ,next js, node js, express js, python mongodb,mysql**
 
 - 📫 How to reach me **shawonkst17@gmail.com**
-- - 📫 How to reach me **+8801316077208**
+-   How to reach me **+8801316077208**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
