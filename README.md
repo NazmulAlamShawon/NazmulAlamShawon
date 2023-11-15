@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nazmul</h1>
 <h2> Full Stack  Developer</h2>
 <h3 align="center">A passionate Full-Stack developer from Bangladesh</h3>
+<p> My name is Nazmul Alam . I am a full stack developer. I love to coding,travelling, wrtting. I am learning now <b>next js</b> and <b>typescript </b> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nazmulalamshawon&label=Profile%20views&color=0e75b6&style=flat" alt="nazmulalamshawon" /> </p>
 
