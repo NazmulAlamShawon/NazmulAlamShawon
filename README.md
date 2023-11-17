@@ -36,4 +36,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nazmulalamshawon&show_icons=true&locale=en" alt="nazmulalamshawon" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nazmulalamshawon&" alt="nazmulalamshawon" /></p>
-<p> I love coding. It is my passion </p>
+<p> I love coding. It is my passion </p><p> Finding bug try to solution</p>
